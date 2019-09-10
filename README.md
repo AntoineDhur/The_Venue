@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Simple ReactJs project: The Venue
 
+Simple frontend to test simple animations (warning: poor css)
+
 ## Available Scripts
 
 In the project directory, you can run:
